@@ -1,2 +1,1 @@
-# pr-conflict-test
-PR Conflict Test
+conflict by feature 2
