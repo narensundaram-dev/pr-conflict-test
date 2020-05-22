@@ -1,2 +1,1 @@
-# pr-conflict-test
-PR Conflict Test
+conflict made by feature 1
